@@ -8,7 +8,8 @@ Cancel an existing booking.
 Admin Management:
 Add new rooms to the system.
 Add new staff members.
-User-Friendly Interface:
+
+     User-Friendly Interface:
 Easy-to-use graphical user interface (GUI) with Tkinter.
 * **Technologies Used**
 Programming Language: Python
